@@ -1,2 +1,2 @@
 # PlanetAR
-I made this AR app as an practice to learn about augmented reality.
+I made this AR app as a practice to learn about augmented reality.
